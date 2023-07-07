@@ -1,0 +1,43 @@
+.Nav-body {
+  /* text-align: left; */
+  min-height: 10vh;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  padding: 0.5rem;
+  border-bottom: 1px solid grey;
+  /* gap: 2rem; */
+  background-color: #010409;
+}
+.logo {
+  margin-left: 1rem;
+  /* margin-top: 0.5rem; */
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #e5c453;
+  width: 60%;
+}
+.login {
+  margin-right: 1rem;
+  /* max-width: 20%; */
+  max-width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  /* margin-top: 0.5rem; */
+}
+.signIn {
+  visibility: hidden;
+}
+
+@media only screen and (min-width: 600px) {
+  .login {
+    gap: 2rem;
+  }
+  .signIn {
+    visibility: visible;
+  }
+}
