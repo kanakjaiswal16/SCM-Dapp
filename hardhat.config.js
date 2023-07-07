@@ -18,6 +18,6 @@ module.exports = {
     },
   },
   paths: {
-    artifacts: "./SCM_new/src/artifacts",
+    artifacts: "./supply-chain-management/src/artifacts",
   },
 };
