@@ -42,6 +42,6 @@ This is a Decentralized Application that stores the history of goods from the pr
 
 - [@NRS08](https://github.com/NRS08)
 - [@kanakjaiswal16](https://github.com/kanakjaiswal16)
-
-  ##Dapp Link
+  
+##Dapp Link
   - https://supply-chain-management-psi.vercel.app/
