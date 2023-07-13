@@ -3,10 +3,7 @@
 
 This is a Decentralized Application that stores the history of goods from the producers to manufacturer, with all the information about the price history,locations and time stamps.
 
-[![Product Name Screen Shot][product-screenshot]](https://supply-chain-management-nrs08.vercel.app/)
-
-
-[product-screenshot]: ![Screenshot (81)](https://github.com/NRS08/supply-chain-management/assets/102033829/0fd7bdb3-7904-4ace-b49e-35737ac8ed7e)
+ ![Screenshot (81)](https://github.com/NRS08/supply-chain-management/assets/102033829/0fd7bdb3-7904-4ace-b49e-35737ac8ed7e)
 
 
 ## Flow of Dapp
