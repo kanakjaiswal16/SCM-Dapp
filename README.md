@@ -24,7 +24,7 @@ This is a Decentralized Application that stores the history of goods from the pr
 * [![Express][express.js]][express-url]
 * [![MongoDB][mongoDB]][mongo-url]
 * [![Solidity][solidity]][solidity-url]
-* [![Ethereum][ethereum]][solidity-url]
+* [![Ethereum][ethereum]][ethereum-url]
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
@@ -35,9 +35,9 @@ This is a Decentralized Application that stores the history of goods from the pr
 [mongoDB]: https://img.shields.io/badge/mongoDB-20232A?style=for-the-badge&logo=mongoDB&logoColor=47A248
 [mongo-url]: https://www.mongodb.com/
 [solidity]: https://img.shields.io/badge/solidity-20232A?style=for-the-badge&logo=solidity&logoColor=ffffff
-[solidity-url]: https://soliditylang.org/
+[solidity-url]: [https://soliditylang.org/](https://docs.soliditylang.org/en/v0.8.20/)
 [ethereum]: https://img.shields.io/badge/etherjs-20232A?style=for-the-badge&logo=ethereum&logoColor=ffffff
-[ethereum-url]: https://ethereum.org/en/
+[ethereum-url]: https://docs.ethers.org/v5/
 ## Authors
 
 - [@NRS08](https://github.com/NRS08)
